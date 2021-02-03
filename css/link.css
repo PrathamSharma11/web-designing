@@ -1,0 +1,4 @@
+.b{ border-image: url("../image/bi.jpg") 5 round;
+    width: 400px;
+    height: 300px;
+    border: 2px solid  }
